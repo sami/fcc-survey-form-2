@@ -17,9 +17,9 @@ Link: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-de
 
 - [x]  User Story #6: If I enter an email that is not formatted correctly, I will see an HTML5 validation error.
 
-- [ ]  User Story #7: Inside the form, I can enter a number in a field with `id="number"`.
+- [x]  User Story #7: Inside the form, I can enter a number in a field with `id="number"`.
 
-- [ ]  User Story #8: If I enter non-numbers in the number input, I will see an HTML5 validation error.
+- [x]  User Story #8: If I enter non-numbers in the number input, I will see an HTML5 validation error.
 
 - [ ]  User Story #9: If I enter numbers outside the range of the number input, which are defined by the `min` and `max` attributes, I will see an HTML5 validation error.
 
