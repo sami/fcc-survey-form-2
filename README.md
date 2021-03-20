@@ -27,7 +27,7 @@ Link: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-de
 
 - [x]  User Story #11: For the name, email, and number input fields, I can see placeholder text that gives me a description or instructions for each field.
 
-- [ ]  User Story #12: Inside the form element, I can select an option from a dropdown that has a corresponding `id="dropdown"`.
+- [x]  User Story #12: Inside the form element, I can select an option from a dropdown that has a corresponding `id="dropdown"`.
 
 - [ ]  User Story #13: Inside the form element, I can select a field from one or more groups of radio buttons. Each group should be grouped using the `name` attribute.
 
