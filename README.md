@@ -25,7 +25,7 @@ Link: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-de
 
 - [x]  User Story #10: For the name, email, and number input fields inside the form I can see corresponding labels that describe the purpose of each field with the following ids: `id="name-label"`, `id="email-label"`, and `id="number-label"`.
 
-- [ ]  User Story #11: For the name, email, and number input fields, I can see placeholder text that gives me a description or instructions for each field.
+- [x]  User Story #11: For the name, email, and number input fields, I can see placeholder text that gives me a description or instructions for each field.
 
 - [ ]  User Story #12: Inside the form element, I can select an option from a dropdown that has a corresponding `id="dropdown"`.
 
