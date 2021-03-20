@@ -29,7 +29,7 @@ Link: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-de
 
 - [x]  User Story #12: Inside the form element, I can select an option from a dropdown that has a corresponding `id="dropdown"`.
 
-- [ ]  User Story #13: Inside the form element, I can select a field from one or more groups of radio buttons. Each group should be grouped using the `name` attribute.
+- [x]  User Story #13: Inside the form element, I can select a field from one or more groups of radio buttons. Each group should be grouped using the `name` attribute.
 
 - [ ]  User Story #14: Inside the form element, I can select several fields from a series of checkboxes, each of which must have a `value` attribute.
 
