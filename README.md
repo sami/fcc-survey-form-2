@@ -21,7 +21,7 @@ Link: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-de
 
 - [x]  User Story #8: If I enter non-numbers in the number input, I will see an HTML5 validation error.
 
-- [ ]  User Story #9: If I enter numbers outside the range of the number input, which are defined by the `min` and `max` attributes, I will see an HTML5 validation error.
+- [x]  User Story #9: If I enter numbers outside the range of the number input, which are defined by the `min` and `max` attributes, I will see an HTML5 validation error.
 
 - [ ]  User Story #10: For the name, email, and number input fields inside the form I can see corresponding labels that describe the purpose of each field with the following ids: `id="name-label"`, `id="email-label"`, and `id="number-label"`.
 
