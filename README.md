@@ -11,7 +11,7 @@ Link: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-de
 
 - [x]  User Story #3: I can see a form with `id="survey-form"`.
 
-- [ ]  User Story #4: Inside the form element, I am required to enter my name in a field with `id="name"`.
+- [x]  User Story #4: Inside the form element, I am required to enter my name in a field with `id="name"`.
 
 - [ ]  User Story #5: Inside the form element, I am required to enter an email in a field with `id="email"`.
 
